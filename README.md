@@ -15,6 +15,8 @@ see [here](doc/how-to-build.md).
 1. Download navicat from official website.
 
    And you will get a AppImage file. For example, `navicat15-premium-en.AppImage`.
+   
+   Or can download in my drive, `https://drive.google.com/file/d/1Qd0UmBkDie2gpuIe-cReov3IKIiuGtWw/view?usp=sharing`
 
    I assume that the AppImage file is in `~/Desktop` folder.
 
